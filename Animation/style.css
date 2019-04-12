@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+section {
+    height: 100vh;
+    background: rgb(199, 199, 199);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+svg {
+    cursor: pointer;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 50px;
+}
